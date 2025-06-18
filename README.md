@@ -1,2 +1,2 @@
-# GAHE-AI Python Implemenetation
+# GAHE-AI Python Implementation
 **Author : Fatih TAŞDELEN, İbrahim AYAZ** 
